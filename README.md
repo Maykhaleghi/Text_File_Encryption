@@ -1,6 +1,6 @@
 #### output:
 ```txt
-============= RESTART: C:\Users\B I A D I G I\Desktop\cchiperrr.py =============
+
 ~~~THE PLAIN TEXT FILE THAT WE JUST OPENED:
 Come away, come away, Death,
 And in sad cypress let me be laid;
